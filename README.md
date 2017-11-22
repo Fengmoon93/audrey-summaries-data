@@ -8,9 +8,9 @@ In this repository are placed all the experiment done during Master Thesis. They
 Currently, Tensorboard summaries available are:
   * NVIDIA - DeepTesla
   * CNN LSTM - DeepTesla
-  * NVIDIA - CARLA
-  * CNN LSTM - CARLA
-  * A3C - CARLA
+  * NVIDIA - [CARLA [CARLA](https://github.com/carla-simulator/carla)](https://github.com/carla-simulator/carla)
+  * CNN LSTM - [CARLA data](https://github.com/carla-simulator/carla)
+  * A3C - [CARLA data](https://github.com/carla-simulator/carla)
   
 ### Install Tensorboard
 I assume you have Python3 installed.
