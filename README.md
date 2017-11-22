@@ -6,8 +6,8 @@ In this repositories, I will put the summaries and related video which comes fro
 In this repository are placed all the experiment done during Master Thesis. They will be organized for DeepTesla experiment and TORCS experiment.
 
 Currently, Tensorboard summaries available are:
-  * NVIDIA - DeepTesla
-  * CNN LSTM - DeepTesla
+  * NVIDIA - [DeepTesla](https://github.com/lexfridman/deeptesla) with related video
+  * CNN LSTM - [DeepTesla](https://github.com/lexfridman/deeptesla) with related video
   * NVIDIA - [CARLA data](https://github.com/carla-simulator/carla)
   * CNN LSTM - [CARLA data](https://github.com/carla-simulator/carla)
   * A3C - [CARLA data](https://github.com/carla-simulator/carla)
