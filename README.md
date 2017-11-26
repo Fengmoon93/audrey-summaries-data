@@ -27,16 +27,18 @@ $ sudo pip3 install tensorboard
 
 Once `pip3` has finished to install, open a terminal and type
 ```
-$ cd audrey-summaries-data/summaries/
+$ cd <experiment-folder>
 
 $ tensorboard --logdir=<summary_folder>/
 ```
 
 ## Experiment video
 
+### DeepTesla
+
+It will be loaded only video which contains data that are not used in training phase. If you would like to see training data, there are in the graph section plots which contains differences between neural network output and orignal output.
 
 
+### CARLA
 
-
-
-
+Work In Progress
