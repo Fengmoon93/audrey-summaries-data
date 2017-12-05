@@ -1,4 +1,4 @@
-# Master Thesis report data using AUDREY and Tensorboard
+# Master Thesis report data
 In this repositories, I will put the summaries and related video which comes from Master Thesis.
 
 ## Summaries
